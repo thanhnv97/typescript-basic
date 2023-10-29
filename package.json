@@ -32,5 +32,11 @@
     "ts-node": "^10.9.1",
     "tslib": "^2.6.2",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@alchemy/aa-accounts": "^0.1.1",
+    "@alchemy/aa-alchemy": "^0.1.1",
+    "@alchemy/aa-core": "^0.1.1",
+    "viem": "^1.18.0"
   }
 }
